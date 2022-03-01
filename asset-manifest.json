@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hash-router-naver-api/static/css/main.65d2d165.css",
+    "main.js": "/hash-router-naver-api/static/js/main.1985c491.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hash-router-naver-api/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/hash-router-naver-api/index.html",
+    "main.65d2d165.css.map": "/hash-router-naver-api/static/css/main.65d2d165.css.map",
+    "main.1985c491.js.map": "/hash-router-naver-api/static/js/main.1985c491.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hash-router-naver-api/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d2d165.css",
+    "static/js/main.1985c491.js"
+  ]
+}
